@@ -1,0 +1,14 @@
+-pbp
+-w
+--converge
+--nostandard-output
+-nola
+--maximum-line-length=79
+--vertical-tightness=0
+--vertical-tightness-closing=0
+--stack-all-containers
+--ignore-old-breakpoints
+--paren-tightness=2
+--nospace-for-semicolon
+--tight-secret-operators
+--noblanks-before-comments
