@@ -1,5 +1,5 @@
 package Class::Enum::Moose;
-# ABSTRACT: Class::Enum with Moose coercions and more
+# ABSTRACT: Class::Enum with Moose integration
 
 use Carp qw(croak);
 use Class::Enum 0.04 ();
