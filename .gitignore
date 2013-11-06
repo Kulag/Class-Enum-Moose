@@ -1,0 +1,12 @@
+*~
+Build
+MANIFEST*.bak
+MYMETA.*
+_build/
+.build/
+blib/
+cover_db/
+nytprof*
+*.tdy
+*.tmp
+Class-Enum-Moose*
